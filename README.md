@@ -1,3 +1,8 @@
+# Resumo do Curso: Criação de um Copiloto no Copilot Studio
+
+## Visão Geral
+O curso abordou a criação de um **Copiloto** (assistente de IA personalizado) usando o **Microsoft Copilot Studio**, uma plataforma low-code para desenvolver assistentes virtuais inteligentes e integrados a sistemas externos.
+
 ---
 
 ## Principais Tópicos Abordados
@@ -52,3 +57,11 @@ Set(
         ID = varIDCliente
     )
 );
+```
+## Benefícios do Copilot Studio
+- **Redução de Custos:** Automatiza tarefas repetitivas.
+- **Escalabilidade:** Atende múltiplos usuários simultaneamente.
+- **Personalização:** Adaptável a necessidades específicas do negócio.
+
+## Conclusão
+O Copilot Studio democratiza a criação de assistentes de IA, permitindo que equipes sem expertise técnica desenvolvam soluções eficientes. Combinado com integrações e boas práticas de design, é uma ferramenta poderosa para inovação em processos empresariais.
